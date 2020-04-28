@@ -1,0 +1,14 @@
+React + Redux Drag Drop (w/ Library)
+https://www.qed42.com/blog/drag-drop-reorderable-grid-list-with-react-redux
+https://qed42.github.io/react-redux-reorderable-grid/
+
+React Only (no librarys):
+https://www.youtube.com/watch?v=FdDpyD4EMrA
+https://github.com/rajeshpillai/youtube-react-components/blob/master/src/AppDragDropDemo.js
+
+useReducer Hook:
+https://www.smashingmagazine.com/2020/02/html-drag-drop-api-react/
+
+React DND Library:
+https://codesandbox.io/s/jovial-leakey-i0ex5?file=/src/App.js:2021-2028
+https://www.youtube.com/watch?v=uHO3mQgs-e8
